@@ -1,0 +1,4 @@
+1.Create Repository
+2.Clone in Desktop
+3.Commit
+4.Sync
